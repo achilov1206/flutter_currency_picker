@@ -1365,4 +1365,17 @@ List<Map<String, dynamic>> currencies = [
     "space_between_amount_and_symbol": true,
     "symbol_on_left": true,
   },
+  {
+    "code": "UZS",
+    "name": "Uzbekistan SUM",
+    "symbol": "So\'m",
+    "flag": "UZS",
+    "decimal_digits": 2,
+    "number": 860,
+    "name_plural": "Uzbekistan SUM",
+    "thousands_separator": " ",
+    "decimal_separator": ",",
+    "space_between_amount_and_symbol": true,
+    "symbol_on_left": false,
+  },
 ];
